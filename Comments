@@ -1,0 +1,4 @@
+- Feature Flag ( Service Enabled Or No) / Works as Kill Switch too 
+- Swagger listing the API 
+- May be Another Flag to run this based off saving all the entries in Map ( which is o(1) or execute this every time 0(n) ) 
+- Max and Minimum integers from application.properties  ( so that they are not hardcoded ) 
